@@ -1,0 +1,16 @@
+C:\Users\mafog\Desktop\CadastrarTelefone\obj\Debug\net5.0\CadastrarTelefone.csprojAssemblyReference.cache
+C:\Users\mafog\Desktop\CadastrarTelefone\obj\Debug\net5.0\CadastrarTelefone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mafog\Desktop\CadastrarTelefone\obj\Debug\net5.0\CadastrarTelefone.AssemblyInfoInputs.cache
+C:\Users\mafog\Desktop\CadastrarTelefone\obj\Debug\net5.0\CadastrarTelefone.AssemblyInfo.cs
+C:\Users\mafog\Desktop\CadastrarTelefone\obj\Debug\net5.0\CadastrarTelefone.csproj.CoreCompileInputs.cache
+C:\Users\mafog\Desktop\CadastrarTelefone\bin\Debug\net5.0\CadastrarTelefone.exe
+C:\Users\mafog\Desktop\CadastrarTelefone\bin\Debug\net5.0\CadastrarTelefone.deps.json
+C:\Users\mafog\Desktop\CadastrarTelefone\bin\Debug\net5.0\CadastrarTelefone.runtimeconfig.json
+C:\Users\mafog\Desktop\CadastrarTelefone\bin\Debug\net5.0\CadastrarTelefone.runtimeconfig.dev.json
+C:\Users\mafog\Desktop\CadastrarTelefone\bin\Debug\net5.0\CadastrarTelefone.dll
+C:\Users\mafog\Desktop\CadastrarTelefone\bin\Debug\net5.0\ref\CadastrarTelefone.dll
+C:\Users\mafog\Desktop\CadastrarTelefone\bin\Debug\net5.0\CadastrarTelefone.pdb
+C:\Users\mafog\Desktop\CadastrarTelefone\obj\Debug\net5.0\CadastrarTelefone.dll
+C:\Users\mafog\Desktop\CadastrarTelefone\obj\Debug\net5.0\ref\CadastrarTelefone.dll
+C:\Users\mafog\Desktop\CadastrarTelefone\obj\Debug\net5.0\CadastrarTelefone.pdb
+C:\Users\mafog\Desktop\CadastrarTelefone\obj\Debug\net5.0\CadastrarTelefone.genruntimeconfig.cache
